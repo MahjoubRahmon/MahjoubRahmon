@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahjoub Rahmon</h1>
 
-<h3 align="center">Learning Software Engineering at ProgrammingAdvices|IT Student | Software Engineering | Future Full-Stack Web Developer </h3>
+<h3 align="center">Learning Software Engineering at ProgrammingAdvices|IT Student  | Future Full-Stack Web Developer </h3>
 
 <hr>
 
